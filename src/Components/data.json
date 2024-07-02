@@ -1,0 +1,44 @@
+{
+    "course":[
+        {
+            "name":"Basic Algorithm",
+            "lesson":"25 Lessons",
+            "data":"27 Feb,2023",
+            "lCompleted":"10/25(48%)",
+            "duration":"14h 38m 56s",
+            "img":"https://w7.pngwing.com/pngs/310/475/png-transparent-database-computer-icons-computer-software-information-database-miscellaneous-angle-information-technology.png"
+        },
+        {
+            "name":"Web Development",
+            "lesson":"45 Lessons",
+            "data":"23 Feb,2023",
+            "lCompleted":"40/45(97%)",
+            "duration":"36h 30m 00s",
+            "img":"https://w7.pngwing.com/pngs/310/475/png-transparent-database-computer-icons-computer-software-information-database-miscellaneous-angle-information-technology.png"
+        },
+        {
+            "name":"Basic Data Science",
+            "lesson":"37 Lessons",
+            "data":"14 Jan,2023",
+            "lCompleted":"9/37(40%)",
+            "duration":"37h 00m 00s",
+            "img":"https://w7.pngwing.com/pngs/310/475/png-transparent-database-computer-icons-computer-software-information-database-miscellaneous-angle-information-technology.png"
+        },
+        {
+            "name":"UI/UX Design",
+            "lesson":"32 Lessons",
+            "data":"19 Jan,2023",
+            "lCompleted":"26/32(84%)",
+            "duration":"16h 40m 50s",
+            "img":"https://w7.pngwing.com/pngs/310/475/png-transparent-database-computer-icons-computer-software-information-database-miscellaneous-angle-information-technology.png"
+        },
+        {
+            "name":"Project Management",
+            "lesson":"19 Lessons",
+            "data":"27 Jan,2023",
+            "lCompleted":"14/19(89%)",
+            "duration":"13h 20m 00s",
+            "img":"https://w7.pngwing.com/pngs/310/475/png-transparent-database-computer-icons-computer-software-information-database-miscellaneous-angle-information-technology.png"
+        }
+    ]
+}

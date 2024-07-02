@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Georgian:wght@100..900&display=swap');
+
+body {
+  background-color: gray;
+  font-family: "Noto Sans Georgian", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+h1 {
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+  max-width: 1000px;
+  margin: 18px auto;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  overflow: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  cursor: pointer;
+}
+
+
+th,
+td {
+  border: none;
+  padding: 8px;
+  text-align: justify;
+}
+
+td:hover {
+  text-decoration: underline;
+}
+
+p {
+  font-size: 13px;
+  color: gray;
+}
+
+thead {
+  color: gray;
+}
+
+
+.course {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+}
+
+.two {
+  display: flex;
+  text-align: start;
+}
+
+.icon1 {
+  background-color: rgba(233, 227, 253, 1);
+  color:rgba(138, 110, 213, 1);
+  width: 30px;
+  height: 30px;
+  border-radius: 30%;
+  transition: transform .6s;
+  padding: 10px;
+}
+
+th:hover{
+  color: black;
+}
+
+.icon1:hover {
+  transform: scale(.5);
+}
+
+.icon2:hover {
+  transform: scale(.5);
+}
+
+.icon3:hover {
+  transform: scale(.5);
+}
+
+.icon4:hover {
+  transform: scale(.5);
+}
+
+.icon5:hover {
+  transform: scale(.5);
+}
+
+.icon2 {
+  background-color: rgba(230, 242, 254, 1);
+  color: rgba(97, 152, 216, 1);
+  width: 30px;
+  height: 30px;
+  border-radius: 30%;
+  transition: transform .6s;
+  padding: 10px;
+}
+
+.icon3 {
+  background-color: rgba(255, 240, 227, 1);
+  color: rgba(240, 180, 120, 1);
+  width: 30px;
+  height: 30px;
+  border-radius: 30%;
+  transition: transform .6s;
+  padding: 10px;
+}
+
+.icon4 {
+  background-color: rgba(234, 249, 230, 1);
+  color: rgba(153, 193, 140, 1);
+  width: 30px;
+  height: 30px;
+  border-radius: 30%;
+  transition: transform .6s;
+  padding: 10px;
+}
+
+.icon5 {
+  background-color: rgba(255, 234, 229, 1);
+  color: rgba(253, 81, 31, 1);
+  width: 30px;
+  height: 30px;
+  border-radius: 30%;
+  transition: transform .6s;
+  padding: 10px;
+}
+
+.lesson {
+  display: block;
+  margin-left: 10px;
+}
+
+.view {
+  color: rgba(134, 117, 197, 1);
+}
